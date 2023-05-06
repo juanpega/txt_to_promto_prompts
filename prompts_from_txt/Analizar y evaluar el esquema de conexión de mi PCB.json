@@ -1,0 +1,17 @@
+{
+    "Título": [
+        "Analizar y evaluar el esquema de conexión de mi PCB"
+    ],
+    "Descripción": [
+        "Esta función tiene como objetivo el de analizar y evaluar el esquema de conexión de mi PCB para un tipo de dispositivo y sugerir mejoras si es necesario."
+    ],
+    "Inputs": [
+        "tipo de dispositivo"
+    ],
+    "Prompt": [
+        "Analiza y evalúa el esquema de conexión de mi PCB para un +input_1+ y sugiere mejoras si es necesario."
+    ],
+    "Actúa como": [
+        "Actúa como un recurso de ayuda para mejorar el esquema de conexión de un PCB."
+    ]
+}

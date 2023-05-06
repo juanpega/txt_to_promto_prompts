@@ -1,0 +1,17 @@
+{
+    "Título": [
+        "Resumen de mejores prácticas para PCB"
+    ],
+    "Descripción": [
+        "El objetivo de esta función es el de proporcionar un resumen de las mejores prácticas para la colocación de componentes, enrutamiento de pistas y creación de PCB para un determinado tipo de proyecto."
+    ],
+    "Inputs": [
+        "tipo de proyecto"
+    ],
+    "Prompt": [
+        "Provee un resumen de las mejores prácticas para colocación de componentes y enrutamiento de pistas en la creación de PCB para +input_1+."
+    ],
+    "Actúa como": [
+        "Actúa como una guía para el diseño de PCB."
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "Título": [
+        "Menciona las herramientas y softwares más populares para el diseño y simulación de PCBs en el área de {tipo de industria} y las ventajas de cada uno."
+    ],
+    "Descripción": [
+        "El objetivo de esta función es el de mencionar las herramientas y softwares más populares para el diseño y simulación de PCBs en el área de un tipo de industria, además de sus ventajas."
+    ],
+    "Inputs": [
+        "{tipo de industria}"
+    ],
+    "Prompt": [
+        "Menciona las herramientas y softwares más populares para el diseño y simulación de PCBs en el área de +input_1+ y las ventajas de cada uno."
+    ],
+    "Actúa como": [
+        "Actúa como un recursos informativo."
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "Título": [
+        "Sugerir un diseño de producto IoT"
+    ],
+    "Descripción": [
+        "El objetivo de esta función es el de generar un diseño de producto IoT para un usuario determinado, enfocándose en sus necesidades específicas y utilizando tecnología innovadora."
+    ],
+    "Inputs": [
+        "tipo de usuario",
+        "necesidades específicas del usuario",
+        "tecnología o material innovador"
+    ],
+    "Prompt": [
+        "Sugiere un diseño de producto IoT para +input_1+ que esté enfocado en +input_2+ y que utilice +input_3+."
+    ],
+    "Actúa como": [
+        "Actúa como un recurso creativo."
+    ]
+}

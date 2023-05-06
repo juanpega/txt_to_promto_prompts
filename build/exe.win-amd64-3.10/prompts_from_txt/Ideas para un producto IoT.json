@@ -1,0 +1,18 @@
+{
+    "Título": [
+        "Ideas para un producto IoT"
+    ],
+    "Descripción": [
+        "El objetivo de esta función es el de generar una idea para un producto IoT específico."
+    ],
+    "Inputs": [
+        "ciudad o entorno específico",
+        "tecnologías o características"
+    ],
+    "Prompt": [
+        "Diseña un producto IoT para mejorar la movilidad urbana en +input_1+ que incorpore +input_2+ para mejorar la seguridad y el bienestar de los ciudadanos."
+    ],
+    "Actúa como": [
+        "Actúa como un recurso creativo."
+    ]
+}

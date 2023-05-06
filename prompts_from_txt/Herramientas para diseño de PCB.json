@@ -1,0 +1,17 @@
+{
+    "Título": [
+        "Herramientas para diseño de PCB"
+    ],
+    "Descripción": [
+        "El objetivo de esta función es el de generar una lista de herramientas de simulación y análisis fundamentales para validar el diseño de una PCB antes de fabricarla."
+    ],
+    "Inputs": [
+        "tipo"
+    ],
+    "Prompt": [
+        "Al diseñar una PCB para una aplicación +input_1+, ¿qué herramientas de simulación y análisis son fundamentales para validar el diseño antes de pasar a la fase de fabricación y producción de la placa?"
+    ],
+    "Actúa como": [
+        "Actúa como un recursos de información sobre herramientas de diseño de PCB."
+    ]
+}

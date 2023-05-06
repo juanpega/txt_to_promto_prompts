@@ -1,0 +1,10 @@
+1. Genera una idea de producto IoT para el hogar que integre {tecnología específica} y que mejore {tarea o experiencia en el hogar}.
+2. Sugiere un diseño de producto IoT para {tipo de usuario} que esté enfocado en {necesidades específicas del usuario} y que utilice {tecnología o material innovador}.
+3. Diseña un dispositivo IoT portátil para {aplicación o industria específica} que incorpore {funciones o características} para mejorar la eficiencia y la experiencia del usuario.
+4. Crea una solución IoT para {problema medioambiental} utilizando {tecnologías de ahorro energético} que fomenten la sostenibilidad y contribuyan a reducir la huella de carbono.
+5. Propón un dispositivo IoT que integre {tecnología de inteligencia artificial o machine learning} para {aplicación específica}, considerando cómo puede mejorar el rendimiento y la experiencia del usuario.
+6. Diseña un producto IoT para mejorar la movilidad urbana en {ciudad o entorno específico} que incorpore {tecnologías o características} para mejorar la seguridad y el bienestar de los ciudadanos.
+7. Sugiere un concepto de producto IoT en el campo de {salud o bienestar} que utilice {sensores o tecnologías} para monitorizar y/o mejorar la calidad de vida de los usuarios.
+8. Crea un dispositivo IoT innovador para el {sector educativo o de formación} que incorpore {tecnologías o enfoques pedagógicos} y que pueda mejorar la experiencia de aprendizaje y la interacción entre alumnos y docentes.
+9. Propón un producto IoT en la industria de {entretenimiento o deportes} que utilice {tecnologías o características específicas} para mejorar la experiencia y el compromiso de los usuarios.
+10. Diseña una solución IoT para el seguimiento y la eficiencia de la cadena de suministro en {industria específica}, utilizando {tecnologías y enfoques} que puedan optimizar y agilizar los procesos.

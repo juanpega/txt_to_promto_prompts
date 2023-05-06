@@ -1,0 +1,18 @@
+{
+    "Título": [
+        "Solución IoT para problemas medioambientales"
+    ],
+    "Descripción": [
+        "El objetivo de esta función es el de crear una solución IoT para un problema medioambiental utilizando tecnologías de ahorro energético que fomenten la sostenibilidad y contribuyan a reducir la huella de carbono."
+    ],
+    "Inputs": [
+        "problema medioambiental",
+        "tecnologías de ahorro energético"
+    ],
+    "Prompt": [
+        "Crea una solución IoT para +input_1+ utilizando +input_2+ que fomenten la sostenibilidad y contribuyan a reducir la huella de carbono. "
+    ],
+    "Actúa como": [
+        "Actúa como un recurso creativo para resolver problemas medioambientales."
+    ]
+}

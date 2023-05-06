@@ -1,0 +1,17 @@
+{
+    "Título": [
+        "Enrutamiento de múltiples fuentes de alimentación en un sistema de PCB"
+    ],
+    "Descripción": [
+        "Esta función genera una recomendación para el enrutamiento de múltiples fuentes de alimentación en un sistema de PCB de +input_1+ capas."
+    ],
+    "Inputs": [
+        "número_capas"
+    ],
+    "Prompt": [
+        "A la hora de diseñar una PCB para un sistema +input_1+ de capas con múltiples fuentes de alimentación, ¿cuál es la mejor manera de manejar el enrutamiento de los diferentes voltajes y asegurar la estabilidad del suministro de energía en toda la placa?."
+    ],
+    "Actúa como": [
+        "Actúa como un recurso de consulta técnica para el diseño de PCB."
+    ]
+}

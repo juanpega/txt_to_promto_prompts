@@ -1,0 +1,18 @@
+{
+    "Título": [
+        "Relevancia del espacio entre componentes y trazas"
+    ],
+    "Descripción": [
+        "Esta función busca determinar la relevancia del espacio entre componentes y trazas en el diseño de una PCB de un dispositivo."
+    ],
+    "Inputs": [
+        "tamaño",
+        "tipo"
+    ],
+    "Prompt": [
+        "¿Cuál es la relevancia del espacio entre componentes y trazas en el diseño de una PCB +input_1+ para un dispositivo +input_2+? ¿Hay alguna regla general a seguir para garantizar un diseño robusto y evitar cortocircuitos?."
+    ],
+    "Actúa como": [
+        "Actúa como un recurso informativo."
+    ]
+}

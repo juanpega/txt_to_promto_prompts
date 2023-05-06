@@ -1,0 +1,18 @@
+{
+    "Título": [
+        "Idea de productos IoT para el hogar"
+    ],
+    "Descripción": [
+        "El objetivo de esta función es el de generar una idea de producto IoT para el hogar que integre una tecnología específica y mejore una tarea o experiencia en el hogar."
+    ],
+    "Inputs": [
+        "tecnología específica",
+        "tarea o experiencia en el hogar"
+    ],
+    "Prompt": [
+        "Genera una idea de producto IoT para el hogar que integre +input_1+ y que mejore +input_2+."
+    ],
+    "Actúa como": [
+        "Actúa como un recurso creativo."
+    ]
+}

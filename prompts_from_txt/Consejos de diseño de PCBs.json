@@ -1,0 +1,17 @@
+{
+    "Título": [
+        "Consejos de diseño de PCBs"
+    ],
+    "Descripción": [
+        "Esta función genera consejos de diseño de PCBs para un proyecto específico para garantizar una alta eficiencia y un rendimiento óptimo."
+    ],
+    "Inputs": [
+        "tipo de proyecto"
+    ],
+    "Prompt": [
+        "Dame consejos de diseño de PCBs para un +input_1+ que garantice una alta eficiencia y un rendimiento óptimo."
+    ],
+    "Actúa como": [
+        "Actúa como un recurso creativo."
+    ]
+}

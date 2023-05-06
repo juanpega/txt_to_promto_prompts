@@ -1,0 +1,17 @@
+{
+    "Título": [
+        "Estrategias de enrutamiento de trazas para PCB"
+    ],
+    "Descripción": [
+        "Esta función genera las mejores estrategias de enrutamiento de trazas para una PCB de un número específico de capas que incluye circuitos de alta velocidad y componentes de alta densidad."
+    ],
+    "Inputs": [
+        "número_capas"
+    ],
+    "Prompt": [
+        "¿Cuáles son las mejores estrategias de enrutamiento de trazas para una PCB +input_1+ de capas que incluye circuitos de alta velocidad y componentes de alta densidad?."
+    ],
+    "Actúa como": [
+        "Actúa como una herramienta de diseño de circuitos."
+    ]
+}

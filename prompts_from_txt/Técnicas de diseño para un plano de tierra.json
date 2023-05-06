@@ -1,0 +1,18 @@
+{
+    "Título": [
+        "Técnicas de diseño para un plano de tierra"
+    ],
+    "Descripción": [
+        "Esta función genera una recomendación de la técnica de diseño de plano de tierra más adecuada para una PCB de determinado número de capas, destinada a una determinada aplicación"
+    ],
+    "Inputs": [
+        "número_capas",
+        "tipo_aplicación"
+    ],
+    "Prompt": [
+        "¿Cuál es la técnica de diseño más adecuada para implementar un plano de tierra en una PCB +input_1+ de capas destinada a dispositivos +input_2+? ¿Qué impacto tiene en la integridad de la señal y la estabilidad del circuito?"
+    ],
+    "Actúa como": [
+        "Actúa como un recurso de diseño para PCB"
+    ]
+}

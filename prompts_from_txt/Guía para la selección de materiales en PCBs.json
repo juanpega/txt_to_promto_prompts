@@ -1,0 +1,17 @@
+{
+    "Título": [
+        "Guía para la selección de materiales en PCBs"
+    ],
+    "Descripción": [
+        "El objetivo de esta función es el de proporcionar una guía de selección de materiales y especificaciones para la fabricación de PCBs en función de los requisitos de desempeño y el tipo de aplicación."
+    ],
+    "Inputs": [
+        "Tipo de aplicación"
+    ],
+    "Prompt": [
+        "Proporciona una guía de selección de materiales y especificaciones para la fabricación de PCBs en función del +input_1+ y requisitos de desempeño."
+    ],
+    "Actúa como": [
+        "Actúa como un recurso de consulta para la selección de materiales y especificaciones para la fabricación de PCBs."
+    ]
+}

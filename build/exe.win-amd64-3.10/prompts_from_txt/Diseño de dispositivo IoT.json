@@ -1,0 +1,18 @@
+{
+    "Título": [
+        "Diseño de dispositivo IoT"
+    ],
+    "Descripción": [
+        "El objetivo de esta función es el de diseñar un dispositivo IoT portátil para una aplicación o industria específica que incorpore funciones o características para mejorar la eficiencia y la experiencia del usuario."
+    ],
+    "Inputs": [
+        "aplicación o industria específica",
+        "funciones o características"
+    ],
+    "Prompt": [
+        "Diseña un dispositivo IoT portátil para +input_1+ que incorpore +input_2+ para mejorar la eficiencia y la experiencia del usuario."
+    ],
+    "Actúa como": [
+        "Actúa como un recurso creativo."
+    ]
+}

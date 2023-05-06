@@ -1,0 +1,18 @@
+{
+    "Título": [
+        "Ideas entre dos mundos"
+    ],
+    "Descripción": [
+        "El objetivo de esta función es el de generar 10 ideas mezclando 2 mundos o cosas "
+    ],
+    "Inputs": [
+        "industria específica",
+        "tecnologías y enfoques"
+    ],
+    "Prompt": [
+        "Generame 10 ideas combinando +input_1+  y  +input_2+ . "
+    ],
+    "Actúa como": [
+        "Actúa como un recursos creativo."
+    ]
+}

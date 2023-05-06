@@ -1,0 +1,17 @@
+{
+    "Título": [
+        "Diseño de una PCB para garantizar compatibilidad electromagnética (EMC)"
+    ],
+    "Descripción": [
+        "El objetivo de esta función es el de generar una lista de consideraciones clave para garantizar la compatibilidad electromagnética (EMC) y evitar la interferencia de señales en el diseño de una PCB para una determinada aplicación."
+    ],
+    "Inputs": [
+        "tipo_aplicación"
+    ],
+    "Prompt": [
+        "En el diseño de una PCB +input_1+ (por ejemplo, dispositivos IoT, robótica, sistemas de comunicación), ¿cuáles son las consideraciones clave para garantizar la compatibilidad electromagnética (EMC) y evitar la interferencia de señales?."
+    ],
+    "Actúa como": [
+        "Actúa como un recursos creativo para el diseño de PCBs."
+    ]
+}
